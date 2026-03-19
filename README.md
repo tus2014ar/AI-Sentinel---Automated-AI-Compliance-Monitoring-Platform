@@ -237,7 +237,8 @@ POC:
 
 <img width="1897" height="857" alt="image" src="https://github.com/user-attachments/assets/a3f429df-1037-4ebf-9aed-d2ce7bdbb4aa" />
 
-<img width="1822" height="882" alt="image" src="https://github.com/user-attachments/assets/33f0ae55-93bd-41dc-b608-1ef59a1c1985" />
+<img width="1822" height="882" alt="image" src="https://github.com/user-attachments/assets/aef745f9-8508-4ebe-a3bb-fc2580a42359" />
+
 
 
 # Local First CLI
