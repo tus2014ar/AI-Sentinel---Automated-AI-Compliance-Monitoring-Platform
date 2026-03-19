@@ -224,3 +224,29 @@ In-Person Demo: March 25–27, 2026
 ## ⚠️ Disclaimer
 
 This prototype was built for the Penn State Nittany AI Challenge. It does not constitute medical advice, legal opinion, or a determination of regulatory violation. All findings should be reviewed by qualified clinical and compliance staff.
+
+POC:
+
+# Ollama 3 running in local system 
+
+<img width="1233" height="561" alt="image" src="https://github.com/user-attachments/assets/0e0fbabe-d096-4838-9fda-19b7408720be" />
+
+# AI Sentinel Streamlit web app 
+
+<img width="1882" height="965" alt="image" src="https://github.com/user-attachments/assets/7fa336c8-89a2-4f14-9dc8-0e1e58324379" />
+
+<img width="1897" height="857" alt="image" src="https://github.com/user-attachments/assets/a3f429df-1037-4ebf-9aed-d2ce7bdbb4aa" />
+
+<img width="1870" height="856" alt="image" src="https://github.com/user-attachments/assets/78527606-db4c-4fdf-bd2d-bbf8b38a7d24" />
+
+
+# Local First CLI
+
+<img width="1526" height="398" alt="image" src="https://github.com/user-attachments/assets/f2ffdf2e-dbf3-4da7-b67e-1209914105cc" />
+
+# AI generated Explaination
+
+<img width="1902" height="561" alt="image" src="https://github.com/user-attachments/assets/645c3477-5f39-41ca-b8bd-54cf356845a4" />
+
+
+
