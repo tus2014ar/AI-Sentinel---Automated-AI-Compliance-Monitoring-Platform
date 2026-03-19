@@ -1,0 +1,301 @@
+resident_id,date,caregiver_response_time,caregiver_time_with_resident,movement_events_per_day,steps_per_day,time_spent_walking,sit_to_stand_transitions,sedentary_time,time_spent_upright,rooms_visited_per_day,alert_triggered,alert_type,log_text
+RES_SEVERE_01,2025-01-01,5.243657223702715,27.81958318640114,45,2806,30.0,15,11.686842361908496,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-02,2.145373337095609,28.838463786499076,48,2968,30.0,16,12.423473250884957,12.0,4,False,,Caregiver Allison Hill contacted family at donaldgarcia@example.net phone +1-219-560-0133. System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-03,5.045491476330752,31.116672846423413,59,2903,30.0,15,11.098068603718817,12.0,2,True,motion_sensor,Caregiver Meredith Barnes contacted family at zlawrence@example.org phone 001-626-254-2351x16155. Motion sensor triggered in room.
+RES_SEVERE_01,2025-01-04,5.8447743757817,35.02307919374029,27,2400,30.0,10,12.075144315788387,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-05,3.429118542874088,32.7111458714207,27,2400,30.0,10,11.41027016774611,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-06,4.6526977110421575,30.7108638481875,56,3214,30.0,13,11.620246669296776,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-07,5.164294765370569,34.3924462843056,52,1440,30.0,18,12.105334232601555,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-08,3.9083748278408974,33.26314347530951,53,1440,30.0,14,10.869354486624932,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-09,5.759514887486108,29.416482735482926,49,1440,30.0,15,11.00223410977413,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-10,5.929409984790816,63.0,43,1440,30.0,9,11.496704791795114,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-11,4.931876574832047,63.0,60,1440,30.0,18,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-12,5.203235954586031,63.0,46,1440,30.0,17,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-13,6.206608154863915,63.0,44,1440,30.0,12,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-14,3.634382595809851,63.0,43,1440,30.0,14,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-15,5.494705653775032,63.0,47,1440,30.0,11,19.5,4.5,1,False,,Caregiver Kimberly Dudley contacted family at smiller@example.net phone +1-659-931-0341x316. System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-16,4.663447410121827,63.0,45,1440,30.0,17,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-17,6.699435983008709,63.0,53,1440,30.0,17,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-18,4.354427927964605,63.0,41,1440,30.0,9,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-19,4.346101611674424,63.0,49,1440,30.0,12,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-20,5.047493468251643,63.0,49,1440,30.0,15,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-21,5.307403569719688,63.0,51,1440,30.0,13,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-22,5.032407013340136,63.0,45,1440,30.0,9,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-23,2.6283406391411077,63.0,51,1440,30.0,15,19.5,4.5,1,False,,Caregiver Holly Wood contacted family at elizabethmiles@example.net phone +1-219-528-3276x4835. System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-24,5.197916667342075,63.0,46,1440,30.0,14,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-25,5.324340210014868,63.0,54,1440,30.0,12,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-26,5.942788514140076,63.0,56,1440,30.0,12,11.72924549977688,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-27,5.54090851856099,63.0,46,1440,30.0,11,10.75096949125353,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-28,5.608905356254632,63.0,50,1440,30.0,15,10.904462963717668,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-29,6.255403609459896,63.0,45,1440,30.0,16,11.577837981408464,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_01,2025-01-30,4.517172409193082,63.0,54,1440,30.0,14,12.497890614188764,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-01,6.173442276632445,29.45491055727638,48,3100,30.0,10,12.111576527373849,12.0,4,False,,Caregiver Renee Morales contacted family at clarksherri@example.net phone 837-767-2423x88496. System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-02,5.680230208417629,29.57499727061767,55,3119,30.0,8,12.100225752170159,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-03,4.505034519631927,29.00485500338157,55,3059,30.0,18,12.144364001504918,12.0,3,True,motion_sensor,Motion sensor triggered in room.
+RES_SEVERE_02,2025-01-04,3.6668716452221934,31.494145687693106,27,2400,30.0,16,11.471301071128051,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-05,5.850079332417553,30.8353615044788,27,2400,30.0,15,12.641908429926781,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-06,5.544220352340347,31.27543899436383,52,3179,30.0,10,12.099742649721456,12.0,3,False,,Caregiver Zachary Hicks contacted family at camposmichelle@example.org phone +1-326-691-6697x8480. System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-07,3.805477060233965,30.571606573589467,45,1440,30.0,14,11.202622020918334,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-08,4.422079223167289,27.526959327306656,53,1440,30.0,12,12.733436645077344,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-09,2.830322582274298,27.61162119781542,45,1440,30.0,10,12.206499456068899,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-10,5.37940539760511,63.0,46,1440,30.0,16,12.075435935637735,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-11,4.410887867218873,63.0,49,1440,30.0,13,19.5,4.5,1,False,,Caregiver Gina Carter contacted family at shawnmckay@example.net phone 282-781-4893x252. System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-12,4.102169933574371,63.0,43,1440,30.0,16,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-13,4.94689319830309,63.0,50,1440,30.0,16,19.5,4.5,1,False,,Caregiver Brian Cox DVM contacted family at john39@example.org phone 671-882-2782. System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-14,4.362412457924036,63.0,50,1440,30.0,10,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-15,5.370211889941741,63.0,49,1440,30.0,16,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-16,5.839349114231602,63.0,42,1440,30.0,14,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-17,4.103667341407938,63.0,53,1440,30.0,17,19.5,4.5,1,False,,Caregiver Tanya Campos contacted family at jenniferross@example.net phone +1-557-587-1331x5098. System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-18,5.014149264965758,63.0,45,1440,30.0,13,19.5,4.5,1,False,,Caregiver Michael Brown contacted family at whiteheadmichele@example.org phone 334.373.8299x73763. System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-19,3.823037887230032,63.0,47,1440,30.0,15,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-20,5.7840027793107485,63.0,47,1440,30.0,16,19.5,4.5,1,False,,Caregiver Heather Jenkins contacted family at nuneztracey@example.org phone 4658133387. System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-21,5.5457867135323555,63.0,49,1440,30.0,14,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-22,6.310191908080897,63.0,42,1440,30.0,20,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-23,5.0678385139169375,63.0,57,1440,30.0,15,19.5,4.5,1,False,,Caregiver Joel Baxter contacted family at ramosmichelle@example.net phone 908-501-3267. System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-24,2.162493558602621,63.0,47,1440,30.0,13,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-25,4.3328109152224945,63.0,55,1440,30.0,10,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-26,5.837764221546589,63.0,49,1440,30.0,18,11.996438193895832,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-27,5.813980860197741,63.0,48,1440,30.0,16,12.808150021360959,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-28,4.9654493760460365,63.0,49,1440,30.0,14,13.107772308102382,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-29,4.684703344713876,63.0,51,1440,30.0,19,11.858390980527384,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_02,2025-01-30,4.528684278848882,63.0,52,1440,30.0,7,11.382577143165454,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-01,5.480260501405925,27.8897846490391,54,2807,30.0,17,12.552916533147357,12.0,4,False,,Caregiver Stephanie Martin contacted family at gallowayjoseph@example.com phone 268-272-3430x9805. System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-02,5.251316648238102,27.65185173678205,46,3179,30.0,18,11.662828523214037,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-03,3.5563957378302353,29.034180321078964,49,3048,30.0,17,12.263448961832896,12.0,3,True,motion_sensor,Motion sensor triggered in room.
+RES_SEVERE_03,2025-01-04,4.8018043236202805,29.032025767438242,27,2400,30.0,17,12.642692639507136,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-05,5.577363525106661,29.742681107295887,27,2400,30.0,17,11.980628552505229,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-06,5.5925303073177615,29.07352172615493,53,3025,30.0,11,12.93655221231239,12.0,4,False,,Caregiver Kathryn Farrell contacted family at brianromero@example.org phone 291-336-1939. System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-07,5.722826894985512,30.223598316406775,55,1440,30.0,15,11.848217837367043,12.0,3,False,,Caregiver Kevin Mills contacted family at james53@example.com phone (524)675-1079x9118. System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-08,1.8295742641219443,30.069733765558293,59,1440,30.0,19,12.203363734730557,12.0,3,False,,Caregiver Gregory Jones contacted family at mikemoore@example.net phone 001-449-680-8412x411. System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-09,5.290947364339486,31.915679262216536,46,1440,30.0,10,12.350747390962358,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-10,5.495805021027571,63.0,50,1440,30.0,16,12.999435867969858,12.0,5,False,,Caregiver Daniel Cooper contacted family at william40@example.org phone +1-264-300-5242x7868. System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-11,6.103933546701907,63.0,48,1440,30.0,13,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-12,6.280939576666728,63.0,43,1440,30.0,12,19.5,4.5,1,False,,Caregiver Stephen Mckee contacted family at davenportbrandi@example.org phone (420)545-0533x15869. System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-13,3.8169438152656108,63.0,55,1440,30.0,15,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-14,5.019381237698025,63.0,48,1440,30.0,12,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-15,3.309328372393548,63.0,63,1440,30.0,17,19.5,4.5,1,False,,Caregiver Vanessa Cochran contacted family at vjohnson@example.com phone (534)221-6073x37543. System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-16,4.829741753204095,63.0,47,1440,30.0,13,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-17,2.9496425427157997,63.0,52,1440,30.0,10,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-18,3.4041060314258864,63.0,45,1440,30.0,13,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-19,5.6594512411136115,63.0,51,1440,30.0,18,19.5,4.5,1,False,,Caregiver Jennifer Ramirez contacted family at rasmussenjoshua@example.net phone 768.750.1429x40196. System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-20,4.720492536703467,63.0,43,1440,30.0,14,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-21,5.868772500590771,63.0,52,1440,30.0,9,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-22,4.241234742064625,63.0,58,1440,30.0,12,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-23,2.8217886802685697,63.0,47,1440,30.0,7,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-24,5.148876803917691,63.0,50,1440,30.0,16,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-25,4.312985900300503,63.0,49,1440,30.0,15,19.5,4.5,1,False,,Caregiver William Wilson contacted family at jonathanfletcher@example.org phone 783.856.1595x14846. System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-26,4.477868429980008,63.0,56,1440,30.0,18,11.773446205312457,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-27,3.659927928876065,63.0,46,1440,30.0,17,12.686957192605725,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-28,5.47536561069201,63.0,52,1440,30.0,13,12.374790871653827,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-29,4.177923988172073,63.0,47,1440,30.0,11,11.99507759567481,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_03,2025-01-30,3.879952577530128,63.0,51,1440,30.0,10,12.190476417846707,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-01,4.503468264518031,27.693015148030433,51,2835,30.0,13,12.662638045218518,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-02,5.157974312251452,29.157044505388455,44,3084,30.0,18,12.445261088822734,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-03,6.663732832143474,30.610486253062707,52,3282,30.0,16,11.749382946104893,12.0,3,True,motion_sensor,Motion sensor triggered in room.
+RES_SEVERE_04,2025-01-04,5.238554953773739,28.99576764027191,27,2400,30.0,14,13.072518210384354,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-05,4.540235384169524,31.086781655743618,27,2400,30.0,17,11.299964638408495,12.0,4,False,,Caregiver Kristen Lee contacted family at lbyrd@example.net phone 001-746-980-4436. System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-06,4.794372146356753,34.41105913653083,55,2748,30.0,17,12.511888150810409,12.0,3,False,,Caregiver Michael Dixon contacted family at donnacampbell@example.net phone +1-395-913-4332x0037. System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-07,5.240205843946223,32.50626564953649,53,1440,30.0,15,11.305350634894506,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-08,6.0600897399086655,27.731439093707532,49,1440,30.0,14,12.400382713369796,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-09,4.344312280538556,29.528577510286663,45,1440,30.0,14,12.726377772563092,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-10,4.918954035278256,63.0,45,1440,30.0,8,11.744650693245118,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-11,3.802033570782738,63.0,51,1440,30.0,16,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-12,5.06936980265807,63.0,53,1440,30.0,14,19.5,4.5,1,False,,Caregiver Mark Lee contacted family at psnyder@example.org phone +1-401-963-2870x8317. System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-13,5.711410579465495,63.0,54,1440,30.0,13,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-14,4.669909808298563,63.0,56,1440,30.0,18,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-15,6.5983218076410335,63.0,50,1440,30.0,15,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-16,7.042177910534731,63.0,50,1440,30.0,14,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-17,3.9680337161528207,63.0,56,1440,30.0,11,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-18,5.538434957216452,63.0,54,1440,30.0,15,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-19,6.623884992811153,63.0,52,1440,30.0,14,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-20,6.071080500402805,63.0,40,1440,30.0,9,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-21,5.341660231952626,63.0,43,1440,30.0,17,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-22,4.576109957677647,63.0,47,1440,30.0,11,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-23,4.979439442649493,63.0,44,1440,30.0,16,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-24,5.100791072644807,63.0,50,1440,30.0,21,19.5,4.5,1,False,,Caregiver Victoria Larson contacted family at usalazar@example.net phone (387)627-7434x87347. System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-25,5.9562950020913465,63.0,49,1440,30.0,15,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-26,4.294226516904635,63.0,43,1440,30.0,14,11.361832039686732,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-27,4.233135961995448,63.0,55,1440,30.0,15,12.039058867618008,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-28,5.201652905129254,63.0,44,1440,30.0,12,13.169564475784455,12.0,3,False,,Caregiver George Orozco contacted family at taylorjesse@example.net phone (231)566-5876. System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-29,4.960105616248288,63.0,49,1440,30.0,20,11.70527380003064,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_04,2025-01-30,5.816837011430981,63.0,45,1440,30.0,16,11.97476847629858,12.0,3,False,,Caregiver Jean Carrillo contacted family at gateskathy@example.com phone 805.946.6889x3734. System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-01,5.149597957518788,30.195654349415847,52,3168,30.0,16,12.22679276175461,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-02,5.0502276991656805,29.11066186460219,47,3126,30.0,13,11.787550455398597,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-03,5.907962313627049,30.24695961832919,49,2957,30.0,17,12.162788908393535,12.0,5,True,motion_sensor,Caregiver George Shelton contacted family at dramsey@example.org phone +1-280-669-9016x272. Motion sensor triggered in room.
+RES_SEVERE_05,2025-01-04,4.147775357002676,29.921527052602514,27,2400,30.0,12,11.416174108941787,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-05,5.273010717494386,25.850719924907263,27,2400,30.0,17,12.486811124713924,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-06,4.849385985370067,28.015912878445732,47,2770,30.0,15,12.684314811048564,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-07,3.698412017196669,26.29396303420486,49,1440,30.0,15,11.776839742382828,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-08,5.367510410540602,31.983500690893113,50,1440,30.0,13,11.599045397775022,12.0,2,False,,Caregiver Daniel Murphy contacted family at aramirez@example.com phone 270-580-5310. System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-09,5.556022096842291,28.81743042239621,40,1440,30.0,18,11.831552436607431,12.0,3,False,,Caregiver Alex Hernandez contacted family at thomaswilson@example.org phone 645.829.9124x190. System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-10,5.925672209502721,63.0,49,1440,30.0,22,11.145418222404771,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-11,3.9741318940305237,63.0,50,1440,30.0,14,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-12,5.504287853384272,63.0,53,1440,30.0,8,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-13,7.935657902327778,63.0,47,1440,30.0,16,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-14,5.506157655460712,63.0,45,1440,30.0,16,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-15,4.898005283364068,63.0,53,1440,30.0,17,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-16,3.4412130049761585,63.0,53,1440,30.0,17,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-17,4.182317603394866,63.0,47,1440,30.0,10,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-18,4.220980578480014,63.0,55,1440,30.0,16,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-19,3.6641375958313867,63.0,56,1440,30.0,11,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-20,5.783358710524031,63.0,39,1440,30.0,11,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-21,3.7831032896598327,63.0,46,1440,30.0,19,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-22,4.081787833490209,63.0,52,1440,30.0,12,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-23,4.870965884870216,63.0,46,1440,30.0,14,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-24,5.188475761018103,63.0,56,1440,30.0,13,19.5,4.5,1,False,,Caregiver Miguel Jones contacted family at curtisbarton@example.net phone +1-819-905-8651x850. System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-25,6.0841982440435425,63.0,50,1440,30.0,13,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-26,3.253104308654445,63.0,49,1440,30.0,12,11.851471396063628,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-27,4.652813504887738,63.0,44,1440,30.0,9,11.719331001778897,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-28,6.674859672914065,63.0,47,1440,30.0,4,12.568235254183518,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-29,5.167570105800991,63.0,47,1440,30.0,10,11.547526083530967,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_05,2025-01-30,4.725154699330208,63.0,48,1440,30.0,15,11.881947994540397,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-01,6.36322897513225,29.392747854203996,47,3317,30.0,11,11.437206442984015,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-02,4.932128618300518,29.68592661881474,59,3089,30.0,15,11.737820022159209,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-03,4.091230329192027,33.3690496692069,54,3004,30.0,19,11.243735517350562,12.0,3,True,motion_sensor,Motion sensor triggered in room.
+RES_SEVERE_06,2025-01-04,2.8220322678053122,32.184205922038664,27,2400,30.0,14,11.685471634320798,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-05,3.107237822409948,30.62298171759558,27,2400,30.0,16,12.045546803127957,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-06,5.0062731561844185,31.817624822699937,47,2733,30.0,14,12.293398688992363,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-07,4.290568842671524,31.289190864830353,48,1440,30.0,13,11.410445892818576,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-08,3.80959226432551,29.658506721003384,37,1440,30.0,13,11.342914620447582,12.0,4,False,,Caregiver Tyler Reid contacted family at bzimmerman@example.org phone 001-684-998-7769x4531. System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-09,5.687932972051428,28.77403345745862,49,1440,30.0,16,11.969981229155717,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-10,4.366768603285023,63.0,44,1440,30.0,17,12.340191869211836,12.0,3,False,,Caregiver John Bishop contacted family at frogers@example.com phone (273)554-5494. System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-11,5.319965191145163,63.0,47,1440,30.0,20,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-12,6.399486426972343,63.0,45,1440,30.0,14,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-13,5.29353752996864,63.0,48,1440,30.0,19,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-14,4.499802182904004,63.0,43,1440,30.0,8,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-15,2.6156932112142544,63.0,50,1440,30.0,12,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-16,6.021622984073039,63.0,49,1440,30.0,15,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-17,5.703142542220004,63.0,50,1440,30.0,13,19.5,4.5,1,False,,Caregiver Nathan Freeman contacted family at hannahbrewer@example.com phone 701.843.6349x578. System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-18,2.4682306837491863,63.0,46,1440,30.0,17,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-19,5.50458181447739,63.0,43,1440,30.0,12,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-20,4.385461216308905,63.0,43,1440,30.0,16,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-21,6.3155082909401035,63.0,49,1440,30.0,11,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-22,5.952461970536169,63.0,60,1440,30.0,17,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-23,4.508043095130517,63.0,45,1440,30.0,14,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-24,3.549072108888776,63.0,50,1440,30.0,5,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-25,5.031491562261996,63.0,55,1440,30.0,15,19.5,4.5,1,False,,Caregiver Krista Bell MD contacted family at john13@example.com phone 682-333-7498. System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-26,4.466909597984166,63.0,44,1440,30.0,11,12.003482111720968,12.0,3,False,,Caregiver Elizabeth Ward contacted family at alexis82@example.com phone 6089427109. System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-27,6.900268424310965,63.0,58,1440,30.0,18,11.638017634766106,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-28,2.2608597938625272,63.0,54,1440,30.0,16,11.830077479077817,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-29,5.4094385306422526,63.0,50,1440,30.0,14,11.94820657329711,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_06,2025-01-30,5.970316201788282,63.0,53,1440,30.0,10,12.091899686496715,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-01,6.038606069208816,30.186316675399485,47,2489,30.0,14,11.836993752091576,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-02,4.846094773025312,33.98772587846519,47,2989,30.0,11,12.306120007453456,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-03,4.18910606379975,30.733628086570885,46,3172,30.0,15,12.14922590699072,12.0,3,True,motion_sensor,Motion sensor triggered in room.
+RES_SEVERE_07,2025-01-04,5.707032359610785,32.666774600440846,27,2400,30.0,16,12.037430653125014,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-05,5.760506119584143,26.51410493902667,27,2400,30.0,19,12.469320011339473,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-06,5.08298741881251,26.636542929342333,48,2978,30.0,10,11.862698836739781,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-07,4.945221639661175,28.155174030312093,50,1440,30.0,13,11.28187306753594,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-08,5.7165893397596514,30.326863521174264,53,1440,30.0,7,12.589956705212849,12.0,5,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-09,3.6810315016974893,30.040212933738196,50,1440,30.0,16,11.750683052105774,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-10,4.658178179753865,63.0,46,1440,30.0,10,11.894465665057403,12.0,4,False,,Caregiver Glen Sheppard contacted family at shelley71@example.org phone (871)590-2294x1318. System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-11,5.0683715659676585,63.0,51,1440,30.0,20,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-12,4.254832229682649,63.0,49,1440,30.0,14,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-13,5.9737262308523675,63.0,46,1440,30.0,15,19.5,4.5,1,False,,Caregiver Jamie Kerr contacted family at michelle64@example.net phone +1-309-413-3412x328. System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-14,5.398048216509262,63.0,51,1440,30.0,16,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-15,4.566126537020811,63.0,46,1440,30.0,13,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-16,4.769413601476387,63.0,51,1440,30.0,13,19.5,4.5,1,False,,Caregiver Jerry Wheeler contacted family at antonio44@example.net phone 413.349.3618x324. System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-17,5.579346759756776,63.0,46,1440,30.0,16,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-18,3.534326142657905,63.0,49,1440,30.0,17,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-19,4.954745698035664,63.0,56,1440,30.0,14,19.5,4.5,1,False,,Caregiver Ricky Larson contacted family at scott74@example.net phone (248)387-7190x6594. System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-20,4.668568628718497,63.0,46,1440,30.0,15,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-21,5.107207962040134,63.0,53,1440,30.0,15,19.5,4.5,1,False,,Caregiver Michael Valencia contacted family at keyemily@example.com phone 001-802-978-7429. System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-22,4.835758014967968,63.0,46,1440,30.0,16,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-23,5.029190503935568,63.0,43,1440,30.0,16,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-24,5.5911361179239325,63.0,38,1440,30.0,9,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-25,4.7151630622577985,63.0,65,1440,30.0,16,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-26,4.761766324944382,63.0,39,1440,30.0,18,11.937738787780567,12.0,2,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-27,6.103217572053659,63.0,51,1440,30.0,7,12.342081604304477,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-28,5.176150451887692,63.0,52,1440,30.0,14,12.930628686990264,12.0,3,False,,Caregiver Julie Ortiz contacted family at elizabeth25@example.com phone 001-874-268-0715x451. System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-29,5.16058943317176,63.0,48,1440,30.0,11,12.410276751443948,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_07,2025-01-30,4.579972272705837,63.0,43,1440,30.0,11,11.271706013370318,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-01,5.720996952905636,28.909627510547356,64,2801,30.0,12,11.7173035148573,12.0,4,False,,Caregiver Kimberly Gutierrez contacted family at aprildean@example.com phone +1-570-434-8247x7109. System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-02,4.5297966612146885,28.186384547946282,57,2819,30.0,7,11.60557537512935,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-03,6.243405797187162,32.45606041921627,48,2641,30.0,13,11.70008930304147,12.0,3,True,motion_sensor,Motion sensor triggered in room.
+RES_SEVERE_08,2025-01-04,4.302281096101755,30.669788883504584,27,2400,30.0,18,12.244047690689591,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-05,4.18259186558566,30.642582941514775,27,2400,30.0,17,11.2497617254185,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-06,6.672265904097528,29.714266829316042,41,3142,30.0,14,11.304702569533971,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-07,5.450962634776477,32.01346014245413,42,1440,30.0,15,12.545902669537323,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-08,2.4777220825120496,26.020368962401704,46,1440,30.0,11,10.718023016010056,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-09,5.5057354324727985,29.826597727703582,56,1440,30.0,14,11.55324245374036,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-10,3.1265586960453833,63.0,52,1440,30.0,20,12.08153317194279,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-11,3.2476229048590035,63.0,53,1440,30.0,18,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-12,4.203935862279366,63.0,47,1440,30.0,15,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-13,6.244565160355256,63.0,43,1440,30.0,15,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-14,5.833603204837348,63.0,41,1440,30.0,13,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-15,4.283426511575895,63.0,52,1440,30.0,14,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-16,7.053818690086596,63.0,48,1440,30.0,17,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-17,5.337955554145025,63.0,54,1440,30.0,17,19.5,4.5,1,False,,Caregiver Adam Russell contacted family at victoriadurham@example.com phone 527-948-4677. System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-18,4.3614141748549695,63.0,43,1440,30.0,15,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-19,6.9913704184169045,63.0,57,1440,30.0,12,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-20,4.6060133187568795,63.0,43,1440,30.0,11,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-21,5.467950422131851,63.0,44,1440,30.0,12,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-22,5.837154486331384,63.0,47,1440,30.0,14,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-23,7.178562173991661,63.0,49,1440,30.0,15,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-24,4.724878571744953,63.0,48,1440,30.0,15,19.5,4.5,1,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-25,3.366077040940713,63.0,52,1440,30.0,10,19.5,4.5,1,False,,Caregiver Janet Weeks contacted family at michellehill@example.com phone 784-804-4997x27875. System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-26,3.3050265614833876,63.0,53,1440,30.0,17,11.860558181263416,12.0,5,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-27,5.1095715800778585,63.0,50,1440,30.0,10,11.569475163917213,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-28,6.020036506902089,63.0,46,1440,30.0,15,12.883025152026145,12.0,5,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-29,5.049328165794844,63.0,48,1440,30.0,15,11.863533339887244,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_08,2025-01-30,6.097220191606438,63.0,52,1440,30.0,15,11.582785633241176,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-01,3.7216473711976756,28.209144078149915,43,3267,30.0,19,12.160108288974415,12.0,4,False,,Caregiver Frank Lopez contacted family at ashleyhall@example.com phone 7573662702. System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-02,5.133958380580236,27.406332305664055,46,2846,30.0,14,11.932236865510564,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-03,5.745360724077876,30.18704699287722,49,2825,30.0,15,12.36911861540808,12.0,3,False,,Caregiver Jessica Fox contacted family at jsmith@example.com phone +1-921-274-5961x5865. System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-04,5.087473753680739,31.41246194953414,51,3124,30.0,11,12.090052733732707,12.0,3,False,,Caregiver Cynthia Cohen contacted family at wendy16@example.org phone 001-517-824-0050x45562. System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-05,4.1046456263408,32.12570738606643,61,2827,30.0,16,11.63662904755899,12.0,4,False,,Caregiver Rebecca Jackson contacted family at lynchpatrick@example.net phone 279.923.7474. System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-06,3.734741590914785,28.476248742056484,51,2693,30.0,13,11.576893357356132,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-07,4.885527628201137,30.295511814800257,46,3042,30.0,19,11.610952607083643,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-08,6.4980976334877845,28.35340786148458,48,3006,30.0,20,11.498075136484557,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-09,6.0899049590908305,28.857632051831626,50,3191,30.0,13,11.97703558562992,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-10,5.6833245115160915,32.65523090321061,61,2927,30.0,10,12.645274112883978,12.0,4,False,,Caregiver Megan Moore contacted family at llandry@example.com phone +1-664-674-3671x3695. System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-11,4.226970290397297,28.258544456712517,53,3089,30.0,14,11.540990469180517,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-12,3.435377872664196,26.12118918371625,54,2737,30.0,9,11.81819335204919,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-13,4.838045183058672,30.87682539899329,45,3026,30.0,13,11.339753278297485,12.0,4,False,,Caregiver Ronald Foster contacted family at knightgina@example.net phone 6974439533. System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-14,4.736692193122084,34.47670632354172,45,2813,30.0,19,12.097453602631187,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-15,4.938902491994132,28.502400407959893,52,3233,30.0,14,12.639287583969686,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-16,3.9236188125979417,29.919494203158344,40,2640,30.0,10,11.744778896616724,12.0,3,False,,Caregiver Stephanie Lucas contacted family at kristina09@example.com phone 001-621-445-6232x8588. System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-17,4.447738747887391,27.805712700742372,61,3373,30.0,11,12.791058375651783,12.0,3,False,,Caregiver Roger Olson contacted family at julie51@example.com phone 623-368-5160. System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-18,5.129187473331711,34.319478521322,40,2899,30.0,16,11.197391492152029,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-19,5.01222354841517,27.60666881543121,48,3274,30.0,18,11.98386155294869,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-20,6.879874549421008,30.386016380664095,54,2855,30.0,12,11.771751350765818,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-21,4.778218596283865,31.93873860481611,46,3010,30.0,12,12.180220838146386,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-22,4.060758459317993,28.294475669532712,52,3131,30.0,13,12.185702017211515,12.0,4,False,,Caregiver Michael Chambers contacted family at xcarson@example.org phone +1-437-209-8593x17461. System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-23,5.537412002820381,31.284602470022353,41,3201,30.0,13,11.821086033279366,12.0,5,False,,System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-24,5.301873380721012,25.5424234679475,47,3151,30.0,15,11.806375317010524,12.0,3,False,,Caregiver Elizabeth Vasquez contacted family at youngamanda@example.com phone 258.769.2617x964. System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-25,6.416411791700293,31.546479973331518,49,3061,30.0,13,12.069826844782675,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-26,5.968769895681353,29.442582151560707,51,2845,30.0,13,13.195959966059759,12.0,3,False,,Caregiver Jeremy Young contacted family at cory58@example.net phone (706)543-1713x900. System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-27,5.9102157836647455,29.632943655685693,43,3011,30.0,15,12.092918814451377,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-28,6.018923240089898,31.33054301258019,44,2936,30.0,10,12.334811316190143,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-29,5.505557853215008,30.87247140960211,44,3135,30.0,12,11.432989907032521,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_09,2025-01-30,4.41420727655131,31.761830338066492,49,3061,30.0,13,11.69181728540883,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-01,3.0526575258591855,31.956915611333102,45,3171,30.0,14,12.0143877820405,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-02,6.212129204233486,31.38126113951352,44,2969,30.0,19,11.591147924006963,12.0,5,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-03,6.2334060763526695,29.98462200855726,48,3261,30.0,13,11.293637120549722,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-04,5.619032946588533,28.924846117998513,55,2743,30.0,17,12.088889069292494,12.0,3,False,,Caregiver Rachel Harris DVM contacted family at brendali@example.org phone 729-504-2284x21020. System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-05,5.690910957392193,29.110386323659018,50,2990,30.0,12,11.943166655459283,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-06,4.834919434996954,31.94673190497123,53,2669,30.0,11,11.942289849398794,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-07,3.6462453252902414,31.468953490002434,39,2952,30.0,21,11.2275320389233,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-08,3.500818798042302,31.815998312364915,52,3124,30.0,10,11.09591103873492,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-09,4.179121077590313,29.146391610129484,48,2962,30.0,18,12.63721421334379,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-10,6.098484876051819,30.058537967809652,52,2948,30.0,10,12.628551390327598,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-11,4.484829100907982,29.7469622060921,52,3253,30.0,14,11.288885175246897,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-12,5.754958766141964,28.059232036497495,58,3194,30.0,12,11.665865500077942,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-13,5.880065962957342,27.13238835214317,51,2837,30.0,13,12.252135374019192,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-14,6.33696907355596,32.96459897230582,44,2969,30.0,13,12.022409098550083,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-15,5.364561477355457,28.639653047304098,43,3295,30.0,16,11.885459484539146,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-16,4.178185171578654,31.144770464615807,45,2716,30.0,9,11.89194781440834,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-17,3.518419228448632,27.321060450084488,50,2934,30.0,10,11.859417978767722,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-18,5.527839349915587,31.91324562347098,43,2805,30.0,12,11.780150024532096,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-19,2.747206605268661,30.671936346881154,48,3194,30.0,11,11.690438525875035,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-20,3.995709436505747,31.234126089470408,41,3131,30.0,14,12.756265351151276,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-21,4.150279078522304,29.03403214785432,52,2867,30.0,15,11.842654585605954,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-22,2.619260894476503,27.728498304283413,44,3122,30.0,16,11.85785494472333,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-23,4.113959753021623,29.33484124030025,53,3499,30.0,14,11.296511268948006,12.0,4,False,,Caregiver Alexis Baker contacted family at judyfox@example.net phone 577-258-9178. System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-24,6.32099578954071,33.64174362024695,52,3107,30.0,18,12.236278699691912,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-25,4.933551024690544,29.28384110764136,56,2757,30.0,16,11.314986686317786,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-26,4.741954484388838,30.09864967339912,51,3113,30.0,12,12.652701213132584,12.0,3,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-27,4.23841213496378,29.38797209128518,50,2859,30.0,20,12.072163235863018,12.0,2,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-28,5.33935581275622,31.79105107483395,41,2960,30.0,18,12.250585632244334,12.0,4,False,,System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-29,5.578928648571235,30.920084647720934,57,3251,30.0,12,12.410149187254483,12.0,3,False,,Caregiver Susan Hopkins contacted family at stephen00@example.com phone (761)877-1159x2124. System check OK. Routine observations noted.
+RES_SEVERE_10,2025-01-30,5.6959321009408495,28.94215499522938,47,2819,30.0,9,10.372760529351146,12.0,4,False,,System check OK. Routine observations noted.

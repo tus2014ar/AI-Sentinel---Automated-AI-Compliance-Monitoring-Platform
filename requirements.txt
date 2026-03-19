@@ -1,0 +1,8 @@
+pandas
+numpy
+pytest
+faker
+typer
+streamlit
+# Note: SQLite database functionality uses Python's built-in sqlite3 module
+requests
